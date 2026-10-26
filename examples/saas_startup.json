@@ -1,0 +1,5 @@
+{
+  "_note": "Illustrative example numbers for a fictional B2B SaaS startup, not real company data.",
+  "spend": 40000, "new_customers": 80,
+  "arpa_monthly": 120, "gross_margin": 0.8, "monthly_churn": 0.025
+}

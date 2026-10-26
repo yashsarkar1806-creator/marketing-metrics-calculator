@@ -1,0 +1,5 @@
+{
+  "_note": "Illustrative example numbers for a fictional DTC skincare brand, not real company data.",
+  "spend": 25000, "new_customers": 500, "revenue": 70000,
+  "aov": 62, "orders_per_year": 2.5, "years": 2, "gross_margin": 0.68
+}
